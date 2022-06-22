@@ -11,7 +11,10 @@ namespace CshHFlambda
         static void Main(string[] args)
         {
             //L549.Test();
-            TallyGuyTest.Test();
+            //TallyGuyTest.Test();
+            //SportTest.Test();
+            //YieldReturn.Test();
+            SportYieldTest.Test();
             Console.ReadKey();
         }
     }
